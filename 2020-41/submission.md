@@ -22,6 +22,6 @@ It is very hard to follow 15 sectors (+ Other). The fact that there is no clear 
 ![Image 1st proposal](./simple-bar-chart.png)
 2. Attempt at making a "curved bar chart" as in the original but with blue gradient palette
 ![Image 2nd proposal](./attempt-curve-chart-blue.png)
-3. Same attempt for "curved bar chart but with the original color palette
+3. Same attempt for "curved bar chart" but with the original color palette
 ![Image 3rd proposal](./attempt-curve-chart-colors.png)
 
