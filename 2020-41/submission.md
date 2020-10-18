@@ -1,3 +1,8 @@
+# The assignment
+Visualization source: https://www.dataiq.co.uk/market-insight/data-assets-and-data-culture
+
+Data and questions: https://data.world/makeovermonday/2020w41-data-assets-and-data-culture/workspace/project-summary
+
 # What works and what doesn't work with this chart?
 ## Works
 What works in this chart is the consistency with the paper overall look-and-feel.
@@ -25,3 +30,5 @@ It is very hard to follow 15 sectors (+ Other). The fact that there is no clear 
 3. Same attempt for "curved bar chart" but with the original color palette
 ![Image 3rd proposal](./attempt-curve-chart-colors.png)
 
+# Original Visualization
+![Original Image](https://learningtableaublog.files.wordpress.com/2020/10/screenshot-2020-10-10-at-17.47.16.png)
